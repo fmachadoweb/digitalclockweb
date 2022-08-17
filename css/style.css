@@ -1,0 +1,60 @@
+/*
+CODED BY FERNANDO MACHADO
+https://github.com/fmachadoweb
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Arial, Helvetica, sans-serif";
+}
+
+
+div.clock span{
+    color: blueviolet;
+    font-size: 100px;
+    text-shadow: 2px 2px #000;
+}
+
+
+section {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: url(../img/bg.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+    color: #fff;
+    font-family: Courier, "Lucida Console", monospace;
+    text-shadow: 1px 1px #000;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;   
+    font-size: 35px;
+    font-family: Courier, "Lucida Console", monospace;
+    text-shadow: 2px 2px #000;
+}
+
+a {
+    color: #fff;
+   }
+
+a:link {
+    color: #fff;
+   }
+
+
+a:hover {
+    color: yellow;
+   }  
