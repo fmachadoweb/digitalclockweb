@@ -52,7 +52,7 @@ Utility:
 <!-- RELASES NOTES -->
 ### RELASES NOTES
 
-* Not relases yet.
+* New updates will be posted here.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
